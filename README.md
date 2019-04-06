@@ -4,7 +4,7 @@ Income and Expenditure Android app with persistent storage using *Room*.
 
 ## Motivation
 
-After learning many of the intermediate concepts of Android Development, I wanted to implement it in an application which would consider all these technologies. These include multiple activities, persistent storage, variables shared between multiple activies. All these are present in And Wallet, if you go to the [Features](https://github.com/karkipra/And-Wallet/#Features).
+After learning many of the intermediate concepts of Android Development, I wanted to implement it in an application which would consider all these technologies. These include multiple activities, persistent storage, variables shared between multiple activies. And Wallet is the perfect application of these concepts; there are many real life uses of this fun project. Please read more about it in the [features](https://github.com/karkipra/And-Wallet/#Features).
 
 ## Screenshots
 
