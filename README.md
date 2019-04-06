@@ -36,6 +36,7 @@ After learning many of the intermediate concepts of Android Development, I wante
 
 **Room** was key in this project as it allows persitent storage for the application to be accessible for multiple uses. An application such a virtual wallet should allow for the local storage of input, which is made accessible by the Android Library [Room](https://developer.android.com/topic/libraries/architecture/room). A visual usage of Room with respect the Android architecture can be found below:
 
+<br />
 <img src="/Screenshots/room.png?raw=true"  width="800" height="400">
 <br />
 
